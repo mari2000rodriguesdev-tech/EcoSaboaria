@@ -61,7 +61,7 @@ if "pedidos" not in st.session_state:
 # 3. BARRA LATERAL: FILTROS DINÂMICOS & AÇÕES
 # -------------------------------------------------------------
 with st.sidebar:
-    st.title("🧼 Painel de Controle")
+    st.title("🧼 EcoSaboaria Artesanal")
     st.caption("Filtros de Exibição")
 
     # Filtro de Período
